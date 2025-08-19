@@ -68,25 +68,6 @@
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
-      "links": [
-        {
-          "url": "https://reactjs.org/",
-          "title": "Learn more"
-        }
-      ],
-      "key": "react",
-      "id": "react",
-      "title": "React",
-      "quadrant": "frameworks"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z"
-        }
-      ],
       "key": "code-reviews",
       "id": "code-reviews",
       "title": "Code Reviews",
